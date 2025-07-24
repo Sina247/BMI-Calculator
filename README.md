@@ -10,4 +10,3 @@ A clean and user-friendly Body Mass Index (BMI) Calculator built with HTML, Tail
 - 🎨 **Modern UI** : Clean and minimalist interface with Tailwind CSS styling.  
 - 🧩 **Instant feedback** : Displays BMI value with clear weight status categories.  
 - ⚡ **Lightweight and fast** : Minimal dependencies for quick loading and smooth user experience.
-- 
