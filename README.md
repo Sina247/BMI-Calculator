@@ -1,4 +1,4 @@
-# ⚖️ BMI Calculator
+# 🩺 BMI Calculator
 
 A clean and user-friendly Body Mass Index (BMI) Calculator built with HTML, Tailwind CSS and JavaScript. Quickly determine your BMI by entering your weight (kg) and height (cm) with instant results and health insights.
 
